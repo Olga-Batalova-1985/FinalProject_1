@@ -1,0 +1,15 @@
+E:\_Olga\Работа\GeekBrains\FinalProject\bin\Debug\net6.0\FinalProject.exe
+E:\_Olga\Работа\GeekBrains\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+E:\_Olga\Работа\GeekBrains\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+E:\_Olga\Работа\GeekBrains\FinalProject\bin\Debug\net6.0\FinalProject.dll
+E:\_Olga\Работа\GeekBrains\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+E:\_Olga\Работа\GeekBrains\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+E:\_Olga\Работа\GeekBrains\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Olga\Работа\GeekBrains\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+E:\_Olga\Работа\GeekBrains\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+E:\_Olga\Работа\GeekBrains\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+E:\_Olga\Работа\GeekBrains\FinalProject\obj\Debug\net6.0\FinalProject.dll
+E:\_Olga\Работа\GeekBrains\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+E:\_Olga\Работа\GeekBrains\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+E:\_Olga\Работа\GeekBrains\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+E:\_Olga\Работа\GeekBrains\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
